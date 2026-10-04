@@ -1,0 +1,22 @@
+{
+  "itemGroup.colorroulette": "Color Roulette",
+  "tooltip.colorroulette.use": "Clic derecho para girar la ruleta",
+  "message.colorroulette.busy": "¡La ruleta ya está girando!",
+  "message.colorroulette.used_by": "%s giró la ruleta",
+  "item.colorroulette.purple_chip": "Ficha Morada",
+  "color.colorroulette.purple": "Morado",
+  "item.colorroulette.blue_chip": "Ficha Azul",
+  "color.colorroulette.blue": "Azul",
+  "item.colorroulette.cyan_chip": "Ficha Cian",
+  "color.colorroulette.cyan": "Cian",
+  "item.colorroulette.green_chip": "Ficha Verde",
+  "color.colorroulette.green": "Verde",
+  "item.colorroulette.yellow_chip": "Ficha Amarilla",
+  "color.colorroulette.yellow": "Amarillo",
+  "item.colorroulette.orange_chip": "Ficha Naranja",
+  "color.colorroulette.orange": "Naranja",
+  "item.colorroulette.red_chip": "Ficha Roja",
+  "color.colorroulette.red": "Rojo",
+  "item.colorroulette.magenta_chip": "Ficha Magenta",
+  "color.colorroulette.magenta": "Magenta"
+}

@@ -1,0 +1,22 @@
+{
+  "itemGroup.colorroulette": "Color Roulette",
+  "tooltip.colorroulette.use": "Right click to spin the roulette",
+  "message.colorroulette.busy": "The roulette is already spinning!",
+  "message.colorroulette.used_by": "%s spun the roulette",
+  "item.colorroulette.purple_chip": "Purple Chip",
+  "color.colorroulette.purple": "Purple",
+  "item.colorroulette.blue_chip": "Blue Chip",
+  "color.colorroulette.blue": "Blue",
+  "item.colorroulette.cyan_chip": "Cyan Chip",
+  "color.colorroulette.cyan": "Cyan",
+  "item.colorroulette.green_chip": "Green Chip",
+  "color.colorroulette.green": "Green",
+  "item.colorroulette.yellow_chip": "Yellow Chip",
+  "color.colorroulette.yellow": "Yellow",
+  "item.colorroulette.orange_chip": "Orange Chip",
+  "color.colorroulette.orange": "Orange",
+  "item.colorroulette.red_chip": "Red Chip",
+  "color.colorroulette.red": "Red",
+  "item.colorroulette.magenta_chip": "Magenta Chip",
+  "color.colorroulette.magenta": "Magenta"
+}
